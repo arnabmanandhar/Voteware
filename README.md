@@ -1,4 +1,4 @@
-# Voting-Management-System
+# Voteware
 An Electronic Voting Management System in C++
 A console based application created using the C++ programming language. This system is a simple mini project compiled in Code::Blocks 
 IDE and VS Code using GCC compiler. In this project, the user is able to vote using their pre-registered identity in the application
